@@ -54,4 +54,4 @@ Bu, basit bir komut satırı tabanlı işletim sistemi simülasyonudur.
 
 ## Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır - [LICENSE](lisans) dosyasını inceleyin.
+Bu proje MIT lisansı ile lisanslanmıştır - [LICENSE](LICENSE) dosyasını inceleyin.
